@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-light: 0, 0, 0;
+  --foreground-dark: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-light));
+}
+
+.dark-mode {
+  color: rgb(var(--foreground-dark));
+}
