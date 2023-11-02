@@ -6,7 +6,7 @@ import image from '../assets/profile_images/image.jpg'
 const Aboutme = ()=> {
     return(
         <div id="about">
-            <h1 className="mt-44 mt text-3xl text-center mt-18"> About me  </h1>
+            <h1 className="mt-10 mt text-3xl text-center mt-18"> About me  </h1>
             <div className='grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 md:grid-cols-1'>
                 <div className='flex justify-center mt-10'>
                   <Image src={image}  alt={AboutData.image.alt} className='rounded-3xl ml-7 w-72 ' />
