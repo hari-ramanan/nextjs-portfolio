@@ -9,7 +9,7 @@ import Link from "next/link";
 const Projects = () => {
   return (
     <div id="projects">
-      <h2 className="mt-32 text-3xl text-center">Projects Built</h2>
+      <h2 className="mt-10 text-3xl text-center">Projects Built</h2>
       <div className="mt-7 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-4">
         <div className="group relative">
           <div className="bg-white p-4 rounded-xl w-full h-full absolute top-0 left-0 transform rotateY-180 transition-transform opacity-0 group-hover:opacity-100">
