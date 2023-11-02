@@ -4,7 +4,7 @@ import contact_image from '../assets/contact_image.png';
 const ContactMe = () => {
     return (
         <div id="contact">
-            <h2 className="mt-32 text-3xl text-center">Contact Me</h2>
+            <h2 className="mt-10 text-3xl text-center">Contact Me</h2>
             <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1">
                 <div className="lg:order-2 md:order-2 sm:order-1"> 
                     <Image src={contact_image} className="w-full h-auto lg:ml-4" alt="contact-image"/> 
