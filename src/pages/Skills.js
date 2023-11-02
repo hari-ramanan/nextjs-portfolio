@@ -10,7 +10,7 @@ export default function Skills({ isDarkMode }) {
 
   return (
     <section id="skills" className="mb-8 max-w-4xl mx-auto text-center">
-      <h2 className={`mt-32 text-3xl text-center ${isDarkMode ? 'dark:bg-opacity-10 dark:text-white/80' : ''}`}>Skills</h2>
+      <h2 className={`mt-10 text-3xl text-center ${isDarkMode ? 'dark:bg-opacity-10 dark:text-white/80' : ''}`}>Skills</h2>
       <div className="mt-10">
         <button
           onClick={() => handleSkillsToggle(SoftSkillsData)}
@@ -26,7 +26,7 @@ export default function Skills({ isDarkMode }) {
           Hard Skills
         </button>
       </div>
-      <ul className="mt-10 flex flex-wrap justify-center gap-2 text-lg text-black">
+      <ul className="mt-10 ml-5 flex flex-wrap justify-center gap-2 text-lg text-black">
         {displaySkills.map((skill, index) => (
           <li className={`bg-gray-300 border rounded-xl p-3 ${isDarkMode ? 'dark:bg-opacity-10 dark:text-white/80' : ''}`} key={index}>
             {skill}
