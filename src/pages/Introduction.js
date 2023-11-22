@@ -8,7 +8,7 @@ import Head from "next/head";
 
 const IconsData = [
     { Icon: LinkedIn, url: SocialIconsData.LinkedinUrl },
-    { Icon: GitHub, url: SocialIconsData.GithubuUrl },
+    { Icon: GitHub, url: SocialIconsData.LinkedinuUrl },
     { Icon: YouTube, url: SocialIconsData.YouTubeUrl },
     { Icon: Mail, url: SocialIconsData.Mail },
 ];
