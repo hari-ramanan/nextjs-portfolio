@@ -1,7 +1,7 @@
 import { IntroData, SocialIconsData } from "@/lib/data";
 import Image from "next/image";
 import coder from '../assets/profile_images/coder.webp';
-import { Instagram, GitHub, LinkedIn, Mail } from "@mui/icons-material";
+import { YouTube, GitHub, LinkedIn, Mail } from "@mui/icons-material";
 import Link from "next/link";
 import Head from "next/head";
 
