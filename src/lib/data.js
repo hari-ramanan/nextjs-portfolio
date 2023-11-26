@@ -72,7 +72,6 @@ export const HardSkillsData = [
 export const SocialIconsData = {
     "LinkedinUrl": "https://www.linkedin.com/in/hari-ramanan/",
     "GithubuUrl": "https://github.com/hari-ramanan",
-    "YouTubeUrl": "https://www.youtube.com/@theainewsguy",
     "Mail": "mailto:hariramanansaravanan@gmail.com",  //add your social links
 };
 
