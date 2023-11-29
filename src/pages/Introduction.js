@@ -1,7 +1,7 @@
 import { IntroData, SocialIconsData } from "@/lib/data";
 import Image from "next/image";
 import coder from '../assets/profile_images/coder.webp';
-import { Mail, GitHub, LinkedIn, Mail } from "@mui/icons-material";
+import { GitHub, LinkedIn, Mail } from "@mui/icons-material";
 import Link from "next/link";
 import Head from "next/head";
 
@@ -9,7 +9,6 @@ import Head from "next/head";
 const IconsData = [
     { Icon: LinkedIn, url: SocialIconsData.LinkedinUrl },
     { Icon: GitHub, url: SocialIconsData.GithubuUrl },
-    { Icon: Mail, url: SocialIconsData.Mail},
     { Icon: Mail, url: SocialIconsData.Mail },
 ];
 
