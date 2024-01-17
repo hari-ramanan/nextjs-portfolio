@@ -17,7 +17,7 @@ export const AboutData = {
     },
 
     "resume": {
-        "url": "https://drive.google.com/file/d/1MCJduV09Py8Yqa2QItJMDVm8V9bDzu1D/view?usp=drive_link",
+        "url": "https://drive.google.com/file/d/1ufbNX0Zyw25we2kl-eJ42iozyfG6SejP/view?usp=drive_link",
     }
 };
 
