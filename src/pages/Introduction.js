@@ -9,7 +9,7 @@ import Head from "next/head";
 const IconsData = [
     { Icon: LinkedIn, url: SocialIconsData.LinkedinUrl },
     { Icon: GitHub, url: SocialIconsData.GithubuUrl },
-    { Icon: Mail, url: SocialIconsData.Mail },
+    { Icon: Mail, url: SocialIconsData.MailUrl },
 ];
 
 export default function Introduction() {
