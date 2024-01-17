@@ -6,6 +6,8 @@ import { Introduction, AboutMe, Skills, ContactMe, Projects } from "@/exports/Pa
 const Page = () => {
   return(
     <div>
+      <Navbar />
+      <Introduction />
       <AboutMe />
       <Skills />
       <Projects />
