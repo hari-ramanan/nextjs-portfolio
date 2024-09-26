@@ -1,4 +1,4 @@
-import { Instagram, GitHub, LinkedIn, Mail } from "@mui/icons-material";
+import { GitHub, LinkedIn, Mail } from "@mui/icons-material";
 import Link from "next/link";
 import { FooterData, SocialIconsData } from "@/lib/data";
 
@@ -6,7 +6,6 @@ import { FooterData, SocialIconsData } from "@/lib/data";
 const IconsData = [
   { Icon: LinkedIn, url: SocialIconsData.LinkedinUrl },
   { Icon: GitHub, url: SocialIconsData.GithubuUrl },
-  { Icon: Instagram, url: SocialIconsData.InstagramUrl },
   { Icon: Mail, url: SocialIconsData.MailUrl },
 ];
 
