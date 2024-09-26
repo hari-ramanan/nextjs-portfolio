@@ -17,9 +17,9 @@ export default function Introduction() {
         <div>
             <Head>
                 <title>{IntroData.name} - Introduction </title>
-                <meta name="description" content="Front End developer | Linux Enthusiast | Content Craetor | Aspiring Full Stack Developer" />
+                <meta name="description" content="Aspiring Data Analyst" />
                 <meta property="og:title" content={`${IntroData.name} - Introduction`} />
-                <meta property="og:description" content="Dedicated job seeker looking for a satisfying position where I can put my abilities to use, work with a great team, and contribute to the company's goals. I am well-versed in web development and interpersonal interaction. Currently, I am learning Backend Technologies and will get expertise in that soon" />
+                <meta property="og:description" content="lorem ipsum" />
             </Head>
 
             <div id="about" className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 md:grid-cols-1">
