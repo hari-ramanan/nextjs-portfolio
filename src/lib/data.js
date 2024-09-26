@@ -2,15 +2,15 @@ export const IntroData = {
     //edit intro about you as per yours
 
     "name": "Hari Ramanan",
-    "words": ["Front end Developer", "Linux Enthusiast", "Content Creator", "Aspiring Full stack developer" ],  
+    "words": ["Data Analyst" ],  
 };
 
 export const AboutData = {
     //edit this about data as per yours
 
     "name": "Hari Ramanan",
-    "title": "Front-end Developer 👨‍💻 | Linux Enthusiast 🐧 | Content Creator 🎥 | Aspiring Full Stack Developer 🚀",
-    "description": "Dedicated job seeker looking for a satisfying position where I can put my abilities to use, work with a great team, and contribute to the company's goals. I am well-versed in web development and interpersonal interaction. Currently, I am learning Backend Technologies and will get expertise in that soon.",
+    "title": "Data Analyst",
+    "description": "lorem ipsum",
 
     "image": {
         "alt": "Profile Photo",
@@ -57,14 +57,9 @@ export const SoftSkillsData = [
 ];
 
 export const HardSkillsData = [ 
-    "HTML",
-    "CSS",                       
-    "JavaScript",
-    "React",               //add hard skills as per yours
-    "Next.js",
-    "Git",
-    "Tailwind CSS",
-    "PostgreSQL",
+    "Microsoft Excel",
+    "Power BI",
+    "SQL",
     "C",
     "Linux",
 ];
